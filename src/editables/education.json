@@ -5,15 +5,15 @@
   "sections" : [
   	{
   		"section_title": "",
-  		"section_content": "B.A. Computer Science, Applied Math, Philosophy"
+  		"section_content": "B.S. Business Administration, B.A. Economics"
   	},
   	{
-  		"section_title": "Computer Science GPA: ",
+  		"section_title": "GPA: ",
   		"section_content": "3.9"
   	},
   	{
   		"section_title": "Relevant Coursework: ",
-  		"section_content": "Data Structures, Algorithms, AI, ML (grad), Databases, Real Analysis, Abstract Analysis, Linear Algebra, Abstract Algebra, Deep NN (grad), Probability & Random Processes, Randomness and Computation (grad), Optimization Models and Applications (grad)"
+  		"section_content": “Principles of Business, Foundation of Data Science, Introduction to Entrepreneurship, Introduction to Probability and Statistics, Introduction to Economics, Economic Analysis—Micro”
   	}
   ]
 }]
